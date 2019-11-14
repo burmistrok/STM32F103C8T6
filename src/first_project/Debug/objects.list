@@ -1,0 +1,5 @@
+"src/main.o"
+"src/myFile/CLOCK/src/CLOCK.o"
+"src/myFile/GPIO/src/GPIO.o"
+"startup/startup_stm32.o"
+"startup/sysmem.o"
